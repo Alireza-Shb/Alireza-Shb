@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alireza</h1>
-<h3 align="center">Passionate about Data, base in Netherlands.</h3>
+<h3 align="center">Passionate about Data Science, base in Netherlands.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
